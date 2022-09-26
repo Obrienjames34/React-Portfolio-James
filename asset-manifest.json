@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-James/static/css/main.2872b1bf.css",
+    "main.js": "/React-Portfolio-James/static/js/main.53e7961a.js",
+    "static/js/787.a7249224.chunk.js": "/React-Portfolio-James/static/js/787.a7249224.chunk.js",
+    "static/media/Movie-Hub.png": "/React-Portfolio-James/static/media/Movie-Hub.97510becc9727735f255.png",
+    "static/media/Drink-Up.png": "/React-Portfolio-James/static/media/Drink-Up.11ea516ff4fce0ec83c1.png",
+    "static/media/Profilepic.jpeg": "/React-Portfolio-James/static/media/Profilepic.7a75526de0687842f6b0.jpeg",
+    "static/media/Vacation-Station.png": "/React-Portfolio-James/static/media/Vacation-Station.26d6f1ab352642923605.png",
+    "static/media/Githublogo.png": "/React-Portfolio-James/static/media/Githublogo.c69d09374576398810aa.png",
+    "static/media/Resume 2022.pdf": "/React-Portfolio-James/static/media/Resume 2022.943a3eef1cff7ac38dfa.pdf",
+    "static/media/Beachphoto.jpg": "/React-Portfolio-James/static/media/Beachphoto.d16fd990b18c36bc13fa.jpg",
+    "static/media/linkedin.png": "/React-Portfolio-James/static/media/linkedin.5e9dcbab9177a6896fcb.png",
+    "static/media/Technolgies.png": "/React-Portfolio-James/static/media/Technolgies.122ce5beecf676908c16.png",
+    "static/media/logo.svg": "/React-Portfolio-James/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Portfolio-James/index.html",
+    "main.2872b1bf.css.map": "/React-Portfolio-James/static/css/main.2872b1bf.css.map",
+    "main.53e7961a.js.map": "/React-Portfolio-James/static/js/main.53e7961a.js.map",
+    "787.a7249224.chunk.js.map": "/React-Portfolio-James/static/js/787.a7249224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2872b1bf.css",
+    "static/js/main.53e7961a.js"
+  ]
+}
