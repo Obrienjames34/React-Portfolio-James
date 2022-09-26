@@ -12,4 +12,10 @@ More sections on the main page
 
 https://github.com/Obrienjames34/
 
+# Link:
+
+https://obrienjames34.github.io/React-Portfolio-James/
+
 # Linkden:
+
+http://www.linkedin.com/in/james-o-brien-3841a295/
