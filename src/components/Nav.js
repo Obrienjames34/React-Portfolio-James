@@ -1,12 +1,15 @@
 import React from "react";
-function Nav({ currentPage, setCurrentPage }) {
+function Nav({ setCurrentPage }) {
   return (
-    <section id="JamesOBrien" className="name">
+    <header>
       <h1>James O'Brien</h1>
-      <ul>
-        <li onClick={() => console.log(currentPage)}>James O'Brien</li>
+      <ul className="navList">
+        <li onClick={() => setCurrentPage("about")}>About me</li>
+        <li onClick={() => setCurrentPage("portfolio")}>Portfolio</li>
+        <li onClick={() => setCurrentPage("resume")}>Resume</li>
+        <li onClick={() => setCurrentPage("technologies")}>Technolgies</li>
       </ul>
-    </section>
+    </header>
   );
 }
 export default Nav;
